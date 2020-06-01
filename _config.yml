@@ -1,0 +1,8 @@
+# Book settings
+title: Flatland-RL
+author: The Flatland-RL Community
+logo: assets/images/flatland-logo.svg
+
+latex:
+  latex_documents:
+    targetname: book.tex
