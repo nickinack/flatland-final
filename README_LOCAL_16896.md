@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Contribute to Flatland Book
 
 This repository is an aggregation of all the documentation, exploratory research, baselines, un-explored ideas, future research directions for the Flatland-RL project.
@@ -21,7 +20,3 @@ TODO
 * Sharada Mohanty
 * Florian Laurent
 * `<Please add your name here>`
-=======
-# flatland
-Flatland related stuff
->>>>>>> 9d71b141ec2bde612a4b94d0c79d1251521b5bdb
