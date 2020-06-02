@@ -6,3 +6,88 @@ logo: assets/images/flatland-logo.svg
 latex:
   latex_documents:
     targetname: book.tex
+
+html:
+
+    extra_footer: |
+      <div>
+        <footer class="app-footer">
+      <div class="container-fluid">
+      <div class="row">
+
+        <!-- app brand -->
+        <div class="app-brand col-3 col-lg-4">
+          <div class="app-brand">
+            <a class="logo-aicrowd-light" href="#">
+              <span>AIcrowd</span>
+            </a>
+          </div>
+        </div>
+        <!-- /app brand -->
+
+        <!-- platform -->
+        <div class="col-6 col-sm-4 col-md-3 col-lg-2">
+          <h4>Platform</h4>
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Challenges</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Organize a Challenge</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Achievements</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">FAQ</a>
+            </li>
+          </ul>
+        </div>
+        <!-- /platform -->
+
+        <!-- connect -->
+        <div class="col-6 col-sm-4 col-md-3 col-lg-2">
+          <h4>Connect</h4>
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">GitHub<img src="_static/css/icon-external-link.svg"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="http://gitlab.aicrowd.com/">GitLab<img src="_static/css/icon-external-link.svg"></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Twitter<img src="_static/css/icon-external-link.svg"></a>
+            </li>
+          </ul>
+        </div>
+        <!-- /connect -->
+
+        <!-- legal -->
+        <div class="section-legal col-12 col-sm-4 col-md-3 col-lg-4">
+          <h4>Legal</h4>
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Cookie consent</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Terms of Use</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Privacy</a>
+            </li>
+          </ul>
+          <p>&#169; 2019 AIcrowd. All rights reserved.</p>
+        </div>
+        <!-- /legal -->
+
+        </div>
+        </div>
+        </footer>
+        </div>
+
