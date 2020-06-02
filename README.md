@@ -1,27 +1,22 @@
-<<<<<<< HEAD
-# Contribute to Flatland Book
+## About
 
-This repository is an aggregation of all the documentation, exploratory research, baselines, un-explored ideas, future research directions for the Flatland-RL project.
+- Flatland
+- Flatland website revamping
 
-# Installation
-```
-git clone git@gitlab.aicrowd.com:flatland/flatland-notebook.git
+## Usage
 
-pip install -U "jupyter-book>=0.7.0b"
-
-jupyter-book build .
+```bash
+git clone https://github.com/nickinack/flatland-final.git
 ```
 
-# Usage
-```
-TODO
+```bash
+cd flatland-final
 ```
 
-# Author(s)
-* Sharada Mohanty
-* Florian Laurent
-* `<Please add your name here>`
-=======
-# flatland
-Flatland related stuff
->>>>>>> 9d71b141ec2bde612a4b94d0c79d1251521b5bdb
+To run the script,
+
+```bash
+chmod +x script.sh
+./script.sh
+```
+
